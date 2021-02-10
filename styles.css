@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+}
+hr{
+  background-color: black;
+  border-style: none;
+  border-top-style:dotted;
+  border-color: cornsilk;
+  border-width: 5px;
+  width: 4%;
+}
+h1{color: dodgerblue;}
+h2{color: dodgerblue;}
+h3{color: dodgerblue;}
+ul{color: silver;}
+ol{color: silver;}
+td{color: silver;}
+th{color: skyblue;}
